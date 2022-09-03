@@ -1,2 +1,2 @@
-# deployPortainer
-This script will deploy a Portainer docker container 
+# deployWatchtower
+This script will deploy a Watchtower docker container 
